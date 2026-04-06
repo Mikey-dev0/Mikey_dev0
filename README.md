@@ -10,7 +10,7 @@ I'm currently working on<br>→ Building AI-based projects like a Jarvis-style a
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mikey-dev0&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mikey-dev0&theme=ambient_gradient&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mikey-dev0&theme=ambient_gradient&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey-dev0&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
